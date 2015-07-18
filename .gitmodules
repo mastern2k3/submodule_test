@@ -1,0 +1,3 @@
+[submodule "exe"]
+	path = exe
+	url = https://github.com/mastern2k3/git_exercise.git
